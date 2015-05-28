@@ -103,6 +103,7 @@ void main() {
 	Point p5(10, 15);
 	Point p6(15, 13);
 
+	// collectons of shapes
 	vector<Polygon>		myPolygons;
 	vector<Circle>		myCircles;
 	vector<Triangle>	myTriangles;
